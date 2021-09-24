@@ -1,33 +1,22 @@
 
 
-# Kingster Based On Python Telegram Bot..
-## This Ripository Is Original Ripo Kingster..
+# Rose Based On Python Telegram Bot..
+## This Ripository Is Original Ripo Rose Bot..
 ## with advanced for all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SDInifinity/Kingster-New.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/omindaomindadelshan/Rose-v.1.1.git)
 
 
-## New version Avaiilable on Telegram as [Kingster](https://t.me/szkingster_bot)
-## 🔥 Kingster is the latest
+## New version Avaiilable on Telegram as [Rose](https://t.me/szkingster_bot)
+## 🔥 Rose is the latest
 
 
 
 
 ## Credits
 
- - SaitamaRobot
- - MissJuliaRobot
- - SuzuyaProbot
- - Daisy
- - FridayUserbot
- - Uniborg
- - Telethon
- - Pyrogram
- - Skylee
- - emilia
- - Sadew
- - Supun
- - Me
+ - Ominda Dilshan
+ - seny gamer Boy
 
 
 The bot is based on the original work done by [Ominda](https://github.com/Omindas)
@@ -37,7 +26,7 @@ All other credits mentioned on top of scripts
 
 Should any be missing kindly let us know at [Max Robot Support](https://t.me/SL_Tech_Worldchat) or simply submit a pull request on the readme.
 
-## Kingster the telegram Bot Project
+## rose the telegram Bot Project
 The Advanced Branch 
 
 ## Special credits
